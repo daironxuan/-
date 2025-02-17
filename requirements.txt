@@ -1,0 +1,5 @@
+opencv_python==4.11.0.86
+PyGetWindow==0.0.9
+pynput==1.7.7
+ultralytics==8.3.70
+ultralytics==8.3.74
