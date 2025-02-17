@@ -4,7 +4,7 @@ pip install ultralytics
 pip install PyGetWindow pynput opencv-python mss
 ```
 
-# 您只需按下空格
+# 剩下的您只需按下空格
 
 ![img_2](https://github.com/user-attachments/assets/137fd48a-32a0-4d6b-9cf9-e914e0eeb39c)
 
