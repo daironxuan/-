@@ -15,3 +15,5 @@ pip install PyGetWindow pynput opencv-python mss
 
 # 微信跳一跳小程序PC版本
 基于 YOLOV11 实现
+
+# 喜欢请求下一颗小小的Start吧😊
